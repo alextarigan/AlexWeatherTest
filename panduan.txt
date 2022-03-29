@@ -1,0 +1,9 @@
+dotnet new webapi -n "WeatherTest" -lang "C#" -au none
+
+dotnet build -> proses development (belum release)
+dotnet publish -c Release -> production
+docker build -t weathertestimage:dev . -> membuat image di docker
+docker run -d -p 5051:80 --name weathertestcontainer weathertestimage:dev 
+-> membuat  shortcut/container
+
+jika ada update, ulang dri dotnet build

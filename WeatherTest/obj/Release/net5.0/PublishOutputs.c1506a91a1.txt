@@ -1,0 +1,11 @@
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.exe
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\appsettings.Development.json
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\appsettings.json
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.dll
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.deps.json
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.runtimeconfig.json
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\WeatherTest.pdb
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\sesi-13\WeatherTest\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
